@@ -10,6 +10,7 @@ class Product {
 
        }
        public int getProductId(){
+
            return productId;
        }
        public void setProductName(String name){
@@ -20,6 +21,7 @@ class Product {
            return productName;
        }
        public void setProductPrice(int price){
+
            productPrice=price;
        }
        public int getProductPrice() {

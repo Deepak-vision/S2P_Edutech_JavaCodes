@@ -32,13 +32,16 @@ class Course{
 
     }
     public int getPrice(){
+
         return price;
     }
 
     public void setTeacherName(String teacherKaNam){
+
         teacherName=teacherKaNam;
     }
     public String getTeacherName() {
+
         return teacherName;
     }
 
